@@ -1,0 +1,118 @@
+---
+title: "Research Outputs"
+format: html
+editor: visual
+---
+
+## Publications
+
+### *Forecasting trade flows under geopolitical uncertainty: A hybrid econometric–LSTM approach* — 2026
+
+Álvarez-Salas, M., Huitz-Montero, O. A., **Montalvo-Vásquez, E.**, Valenzuela Vega, D. R., & Saldaña Villanueva, C. E.\
+*Trendinomics, 2*(2), 1–12.
+
+[🔗 Article](https://doi.org/10.29105/trendinomics.v2i2.19)
+
+<details>
+
+<summary>Abstract</summary>
+
+This study develops a forecasting framework to improve the prediction of international trade flows under increasing geopolitical uncertainty, trade tensions, and global value chain fragmentation.
+
+</details>
+
+### *Uso de estancias infantiles: Impacto en el nivel socioeconómico de los hogares en la región sur de México* — 2026
+
+Rodríguez Bedolla, J., Samano Rodríguez, J. M. A., Huerta Treviño, A. I., & **Montalvo Vásquez, E.**\
+*Revista Estudiantil de Economía.*
+
+**Accepted**
+
+<details>
+
+<summary>Abstract</summary>
+
+This study examines the effect of childcare use on household socioeconomic well-being in southern Mexico using ENUT 2024, an AMAI-based socioeconomic index, and an IPWRA model to estimate treatment effects while accounting for selection bias and territorial differences.
+
+</details>
+
+### *La influencia de la retórica de las conferencias mañaneras en la aprobación presidencial de Andrés Manuel López Obrador: Un enfoque empírico de Presidential Priming* — 2025
+
+**Montalvo Vásquez, E.**, Saldaña, C., & Montero Bagatella, J. C.\
+*Revista Mexicana de Opinión Pública, 20*(39), 43.
+
+[🔗 Article](https://revistas.unam.mx/index.php/rmop/article/view/91503)
+
+<details>
+
+<summary>Abstract</summary>
+
+This study examines the relationship between presidential rhetoric and approval ratings in Mexico, finding a statistically significant negative association between the rhetoric of the daily presidential conferences and presidential approval.
+
+</details>
+
+## Working Papers & Research Projects
+
+### *PROSPER Dataset Codebook: Historical Reconstruction of Subnational GDP, Population, and GDP Per Capita Data — Subnational Politics Project (SPP)*
+
+Giraudy, A., **Montalvo Vásquez, E.**, Barrientos Villa, P. Y., & Soto Jorquera, F.\
+*Subnational Politics Project (SPP).*
+
+**Working Paper · Forthcoming**
+
+[↗ PROSPER Dashboard](https://emilianomontalvo.shinyapps.io/subnational_gdp_pop/)
+
+<details>
+
+<summary>Abstract</summary>
+
+This project develops PROSPER, a harmonized long-run panel of GDP, population, and GDP per capita for 83 second-tier subnational units across Argentina, Brazil, and Mexico. The project extends the Subnational Politics Project's data infrastructure through the standardized reconstruction and harmonization of heterogeneous historical economic series.
+
+</details>
+
+### *The Relation Between Political-Criminal Violence and Subnational Democratic Backsliding in Mexico* — 2026
+
+**Montalvo Vásquez, E.**\
+*Undergraduate Thesis, Tecnológico de Monterrey.*
+
+[↗ ResearchGate](https://www.researchgate.net/publication/406976022_The_Relation_Between_Political-Criminal_Violence_and_Subnational_Democratic_Backsliding_in_Mexico)
+
+<details>
+
+<summary>Abstract</summary>
+
+This study examines the relationship between political-criminal violence and subnational democratic backsliding across Mexican states.
+
+</details>
+
+### *El Rincón de Siempre: una propuesta de cuidado comunitario y participación social en la vejez* — 2026
+
+**Montalvo Vásquez, E.** & Delgado Pérez, D.\
+*Conversatorio Internacional Ciudad, Cuidados y Vejez 2026, Universidad Autónoma del Estado de México.*
+
+[🔗 Paper](https://doi.org/10.5281/zenodo.19520644)
+
+<details>
+
+<summary>Abstract</summary>
+
+This policy proposal presents a community initiative to reduce urban elderly social isolation in San Pedro.
+
+</details>
+
+### *Exploring the Role of Coping Mechanisms and Professional Experience in Job Placement Perception Among University Students: A Case Study from Tecnológico de Monterrey* — 2025
+
+Montalvo-Vásquez, E., García-Rojas, A., & Martínez-Canseco, J. S.\
+*Monterrey International Book Fair 2025 (FILMTY 2025).*
+
+[🔗 Paper](https://doi.org/10.5281/zenodo.21895768)
+
+<details>
+
+<summary>Abstract</summary>
+
+This study investigates student perceptions at Tecnológico de Monterrey, finding that students prioritize academic knowledge over coping mechanisms when evaluating job placement prospects.
+
+</details>
+
+## 

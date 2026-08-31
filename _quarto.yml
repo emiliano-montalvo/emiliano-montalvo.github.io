@@ -3,12 +3,18 @@ project:
   output-dir: .
 
 website:
-  title: "emiliano-montalvo.github.io"
+  title: "Emiliano Montalvo"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - professional.qmd
+      - research.qmd
+      - outputs.qmd
+      - conferences.qmd
+      - education.qmd
+      - recommendations.qmd
+      
 
 format:
   html:

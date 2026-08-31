@@ -4,5 +4,23 @@
   },
   "about.qmd": {
     "about.html": "2270c1dc"
+  },
+  "professional.qmd": {
+    "professional.html": "ef4772df"
+  },
+  "research.qmd": {
+    "research.html": "7440041d"
+  },
+  "outputs.qmd": {
+    "outputs.html": "cde73fc9"
+  },
+  "conferences.qmd": {
+    "conferences.html": "55ca9f21"
+  },
+  "education.qmd": {
+    "education.html": "1c4ff171"
+  },
+  "recommendations.qmd": {
+    "recommendations.html": "d34415ff"
   }
 }
