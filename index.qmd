@@ -1,11 +1,38 @@
 ---
-title: "Emiliano Montalvo Vásquez"
+title: "Emiliano Montalvo"
+image: images/emiliano_photo2.jpg
+about:
+  template: trestles
+  image-width: 5cm
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:emilianomontalvo118@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emilianomontalvo/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=BwuV97EAAAAJ&hl=en
+    - icon: book
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Emiliano-Montalvo
+    - icon: id-card
+      text: ORCID
+      href: https://orcid.org/0009-0002-2940-7704
 ---
 
 Hi! I am an Economist and Researcher with experience across applied research, data science consulting, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.
 
 My work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I have applied R and Python to statistical analysis, econometric modeling, machine learning, text mining, web scraping, geospatial analysis, and R Shiny development.
 
-My research interests include political economy, public opinion, subnational democracy,  public policy, and applied econometrics.
+My research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.
 
-Click on relevant categories to see these projects
+You can also check out my <a href="/cv/EMontalvo_CV_Ing.pdf" target="_blank">CV</a>.
+
+Click on the relevant categories to explore my projects.
+
+
+
+
