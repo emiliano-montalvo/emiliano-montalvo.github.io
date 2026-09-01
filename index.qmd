@@ -1,10 +1,11 @@
 ---
 title: "Emiliano Montalvo"
 image: images/emiliano_photo2.JPG
+
 about:
   template: trestles
-  image-width: 5cm
-  image-shape: round
+  image-width: 6cm
+  image-shape: rectangle
   links:
     - icon: envelope
       text: Email
@@ -23,16 +24,16 @@ about:
       href: https://orcid.org/0009-0002-2940-7704
 ---
 
-Hi! I am an Economist and Researcher with experience across applied research, data science consulting, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.
+# An economist and researcher working at the intersection of data, policy, and society.
 
-My work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I have applied R and Python to statistical analysis, econometric modeling, machine learning, text mining, web scraping, geospatial analysis, and R Shiny development.
+I am an Economist and Researcher working across applied research, data science, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.
+
+My work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I work primarily with R and Python, applying statistical analysis, econometric modeling, machine learning, text mining, web scraping, and spatial methods.
 
 My research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.
 
 You can also check out my <a href="/cv/EMontalvo_CV_Ing.pdf" target="_blank">CV</a>.
 
 Click on the relevant categories to explore my projects.
-
-
 
 

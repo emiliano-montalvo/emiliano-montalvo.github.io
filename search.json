@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Emiliano Montalvo",
     "section": "",
-    "text": "Hi! I am an Economist and Researcher with experience across applied research, data science consulting, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.\nMy work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I have applied R and Python to statistical analysis, econometric modeling, machine learning, text mining, web scraping, geospatial analysis, and R Shiny development.\nMy research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.\nYou can also check out my CV.\nClick on the relevant categories to explore my projects."
+    "text": "An economist and researcher working at the intersection of data, policy, and society.\nI am an Economist and Researcher working across applied research, data science, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.\nMy work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I work primarily with R and Python, applying statistical analysis, econometric modeling, machine learning, text mining, web scraping, and spatial methods.\nMy research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.\nYou can also check out my CV.\nClick on the relevant categories to explore my projects."
   },
   {
     "objectID": "professional.html#professional-experience",
@@ -138,5 +138,12 @@
     "title": "Recommendations",
     "section": "Alejandro Dominguez",
     "text": "Alejandro Dominguez\nMaster in Public Policy, Yale Jackson School of Global Affairs\n\n“I have collaborated with Emiliano at different stages of our professional careers, from our time at Tecnológico de Monterrey to having him on my analytics team for a federal campaign. In every role, he has demonstrated great talent.\nEmiliano stands out for his initiative, intellectual curiosity, and human empathy. While contributing solutions, he consistently reminded our team that behind the metrics are people. I also had the opportunity to observe his leadership as President of the Economics Honor Society, where he elevated the level of the team and fostered valuable discussions.\nHe is a professional with tremendous curiosity and a clear vocation for generating positive impact.”\n\nView LinkedIn Profile →"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Emiliano Montalvo",
+    "section": "",
+    "text": "I am an Economist and Researcher working across applied research, data science, public policy, and data-driven social projects. I hold a double degree in Economics and Government and Public Transformation from Tecnológico de Monterrey.\nMy work combines quantitative methods, econometrics, data science, and geospatial analysis to study economic and public policy challenges. I have applied R and Python to statistical analysis, econometric modeling, machine learning, text mining, web scraping, geospatial analysis, and R Shiny development.\nMy research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.\nYou can also check out my CV.\nClick on the relevant categories to explore my projects."
   }
 ]
