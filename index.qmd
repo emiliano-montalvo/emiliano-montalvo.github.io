@@ -1,6 +1,6 @@
 ---
 title: "Emiliano Montalvo"
-image: images/emiliano_photo2.jpg
+image: images/emiliano_photo2.JPG
 about:
   template: trestles
   image-width: 5cm
