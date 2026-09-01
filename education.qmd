@@ -4,17 +4,7 @@ format: html
 editor: visual
 ---
 
-## Tecnológico de Monterrey
-
-<div style="display: flex; align-items: center; gap: 18px; margin-bottom: 20px;">
-  <img src="images/itesm.png" style="width: 65px; height: 65px; object-fit: contain;">
-  <div>
-    <h2 style="margin: 0;">Tecnológico de Monterrey</h2>
-    <div style="font-size: 0.95em; color: #666;">
-      Monterrey, Mexico · Aug. 2021 – Jul. 2026
-    </div>
-  </div>
-</div>
+## <img src="images/itesm2.png" style="width: 80px; height: 80px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Tecnológico de Monterrey (ITESM)
 
 
 **Double Degree in Economics and Government and Public Transformation**\
@@ -25,6 +15,9 @@ editor: visual
 **Honorable Mention in Economics**
 
 **GPA:** 96 / 100
+
+**Relevant Coursework:** Institutions and Public Policy, Political Economy of Development, Data Science for Public
+Policy, Econometrics, Causal Inference
 
 ### Honors & Awards
 

@@ -32,8 +32,8 @@ My work combines quantitative methods, econometrics, data science, and geospatia
 
 My research interests include political economy, public opinion, subnational democracy, public policy, and applied econometrics.
 
-You can check out my <a href="/cv/EMontalvo_CV_Ing.pdf" target="_blank">CV</a>.
+You can explore my <a href="/cv/EMontalvo_CV_Ing.pdf" target="_blank" class="cv-link">CV</a>.
 
-Feel free to explore this site to learn more about my publications, current projects, professional experience, and how to get in touch.
+Explore this site to learn more about my research, publications, and ongoing projects, as well as my academic and professional experience and recommendations from mentors and collaborators. For more information about my work or to discuss a potential collaboration, feel free to get in touch.
 
 

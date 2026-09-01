@@ -1,0 +1,12 @@
+---
+title: "test"
+format: html
+editor: visual
+---
+
+
+# Test
+
+**Methods:** Natural Language Processing
+
+*Sep. 2024 – Jul. 2025*

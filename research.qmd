@@ -6,13 +6,12 @@ format:
     toc: false
 ---
 
-# Research Experience
-
 My research experience spans economics, political science, public policy, and applied data science, with a focus on quantitative research, econometrics, and reproducible data workflows.
 
 ---
 
-### <a href="https://www.subnationalpolitics.com/" target="_blank"><img src="images/spp2.png" style="width: 35px; height: 35px; object-fit: contain; vertical-align: middle; margin-right: 8px;"></a> <a href="https://www.subnationalpolitics.com/" target="_blank">Subnational Politics Project</a> — Tecnológico de Monterrey
+### <a href="https://www.subnationalpolitics.com/" target="_blank"><img src="images/spp2.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;"></a> <a href="https://www.subnationalpolitics.com/" target="_blank">Subnational Politics Project — Tecnológico de Monterrey</a>
+
 
 **Student Researcher**  
 *Mar. 2026 – Aug. 2026*
@@ -29,7 +28,7 @@ Built **PROSPER**, a historical subnational dataset covering GDP, population, an
 
 ---
 
-### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of Economics — Tecnológico de Monterrey
+### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;"> Department of Economics — Tecnológico de Monterrey
 
 **Student Researcher & Project Manager**  
 *Jul. 2025 – Present*
@@ -42,11 +41,11 @@ Conduct research on U.S.–China trade flows using econometric and machine learn
 
 **Tools:** R · Python · LSTM · Econometrics · Data Visualization
 
-**Selected Output:** [Peer reviewed paper →](https://doi.org/10.29105/trendinomics.v2i2.19)
+**Selected Output:** [Peer-reviewed paper →](https://doi.org/10.29105/trendinomics.v2i2.19)
 
 ---
 
-### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of Political Science — Tecnológico de Monterrey
+### <img src="images/tec2.jpg" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;"> Department of Political Science — Tecnológico de Monterrey
 
 **Student Researcher**  
 *Sep. 2024 – Jul. 2025*
@@ -59,10 +58,11 @@ Conducted empirical research on the relationship between presidential political 
 
 **Tools:** R · Text Mining · Econometrics
 
-**Selected Output:** [Peer reviewed paper →](https://revistas.unam.mx/index.php/rmop/article/view/91503)
+**Selected Output:** [Peer-reviewed paper →](https://revistas.unam.mx/index.php/rmop/article/view/91503)
 
 ---
-### <img src="images/egob.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">School of Government and Public Transformation — Tecnológico de Monterrey
+
+### <img src="images/egob.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;"> School of Government and Public Transformation — Tecnológico de Monterrey
 
 **Research Assistant**  
 *Apr. 2025 – Sep. 2025*
@@ -77,7 +77,7 @@ Conducted quantitative analysis of trade, investment, and employment data for an
 
 ---
 
-### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of International Relations — Tecnológico de Monterrey
+### <img src="images/tec2.jpg" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;"> Department of International Relations — Tecnológico de Monterrey
 
 **Project Manager & Research Assistant**  
 *Jan. 2025 – Feb. 2025*

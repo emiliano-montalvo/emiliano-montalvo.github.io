@@ -1,18 +1,16 @@
 ---
-title: "Selected Works"
+title: "Publications & Projects"
 format:
   html:
     anchor-sections: false
     toc: false
 ---
 
-# Selected Works
-
 Selected publications, research projects, policy work, and data products.
 
 ------------------------------------------------------------------------
 
-## Publications
+## Peer-Reviewed Journal Articles
 
 <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
   <img src="images/trendi.png"
@@ -29,8 +27,9 @@ Research developing a hybrid econometric–LSTM framework for forecasting intern
 [Article →](https://doi.org/10.29105/trendinomics.v2i2.19)
 
 ------------------------------------------------------------------------
+
 <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
-  <img src="images/estancias.png"
+  <img src="images/guard.png"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 </div>
 
@@ -46,7 +45,7 @@ Examines the relationship between childcare use and household socioeconomic well
 ------------------------------------------------------------------------
 
 <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
-  <img src="images/amlo.png"
+  <img src="images/amlo3.png"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 </div>
 
@@ -81,7 +80,7 @@ Develops PROSPER, a harmonized long-run panel of GDP, population, and GDP per ca
 ------------------------------------------------------------------------
 
 <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
-  <img src="images/tesis.png"
+  <img src="images/tesis2.png"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 </div>
 
@@ -115,7 +114,7 @@ Policy proposal addressing urban social isolation among older adults through com
 ------------------------------------------------------------------------
 
 <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
-  <img src="images/coping.png"
+  <img src="images/coping2.png"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 </div>
 ### *Exploring the Role of Coping Mechanisms and Professional Experience in Job Placement Perception Among University Students: A Case Study from Tecnológico de Monterrey*
