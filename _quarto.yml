@@ -8,21 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - professional.qmd
       - research.qmd
       - outputs.qmd
-      - conferences.qmd
+      - professional.qmd
       - education.qmd
       - recommendations.qmd
-      
+
 
 format:
   html:
+    anchor-sections: false
     theme:
-      - cosmo
+      - solar
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
-

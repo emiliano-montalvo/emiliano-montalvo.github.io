@@ -1,1 +1,107 @@
-/* css styles */
+/* --- Solar inspired: cream + navy + gold --- */
+
+:root {
+  --cream: #F2EEDF;
+  --navy: #073B75;
+  --gold: #C99A2E;
+}
+
+/* Main page */
+body {
+  background-color: var(--cream);
+  color: var(--navy);
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--cream) !important;
+  border-bottom: 1px solid rgba(7, 59, 117, 0.15);
+}
+
+/* Navbar brand */
+.navbar .navbar-brand {
+  color: #073B75 !important;
+}
+
+/* Navbar links — always blue */
+.navbar .navbar-nav .nav-link {
+  color: #073B75 !important;
+}
+
+/* Navbar links — remain blue on hover */
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+  color: #073B75 !important;
+}
+
+/* Links */
+a {
+  color: var(--navy);
+}
+
+a:hover {
+  color: var(--gold);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--navy);
+}
+
+/* Gold accent */
+strong {
+  color: var(--gold);
+}
+
+
+/* =========================================
+   ABOUT LINKS
+   ========================================= */
+
+.about-links {
+  opacity: 1 !important;
+}
+
+.about-links a {
+  color: #073B75 !important;
+  border-color: #073B75 !important;
+  opacity: 1 !important;
+}
+
+.about-links a:hover {
+  color: #073B75 !important;
+  background-color: rgba(7, 59, 117, 0.08) !important;
+  border-color: #073B75 !important;
+}
+
+/* Icons */
+.about-links a i,
+.about-links a svg {
+  color: #073B75 !important;
+  fill: #073B75 !important;
+  opacity: 1 !important;
+}
+
+
+/* =========================================
+   REMOVE "ON THIS PAGE"
+   ========================================= */
+
+#TOC,
+#toc-title {
+  display: none !important;
+}
+
+
+/* =========================================
+   REMOVE HEADING ANCHOR ICONS
+   ========================================= */
+
+h1 a.anchor,
+h2 a.anchor,
+h3 a.anchor,
+h4 a.anchor,
+h5 a.anchor,
+h6 a.anchor {
+  display: none !important;
+}

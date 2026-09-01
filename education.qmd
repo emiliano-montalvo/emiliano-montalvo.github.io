@@ -4,26 +4,41 @@ format: html
 editor: visual
 ---
 
-# 
-
 ## Tecnológico de Monterrey
+
+<div style="display: flex; align-items: center; gap: 18px; margin-bottom: 20px;">
+  <img src="images/itesm.png" style="width: 65px; height: 65px; object-fit: contain;">
+  <div>
+    <h2 style="margin: 0;">Tecnológico de Monterrey</h2>
+    <div style="font-size: 0.95em; color: #666;">
+      Monterrey, Mexico · Aug. 2021 – Jul. 2026
+    </div>
+  </div>
+</div>
+
 
 **Double Degree in Economics and Government and Public Transformation**\
 *Aug. 2021 – Jul. 2026 · Monterrey, Mexico*
-
-### Honors & Awards
-
-**Best Undergraduate Research in Economics**\
-Tecnológico de Monterrey · 2025 & 2026
-
-**Outstanding Student Leadership Award**\
-Omicron Delta Epsilon
 
 **Highest GPA in Government and Public Transformation**
 
 **Honorable Mention in Economics**
 
 **GPA:** 96 / 100
+
+### Honors & Awards
+
+**Best Undergraduate Research in Economics** · 2025 & 2026\
+Tecnológico de Monterrey
+
+**Outstanding Student Leadership Award**\
+Omicron Delta Epsilon
+
+**Second Place, Tech Política Essay Contest – 2024**\
+FLACSO Ecuador (Department of Political Studies)
+
+**Student Leadership Award - Economics & Government and Public Transformation** · 2025 & 2026\
+Tecnológico de Monterrey
 
 ### Memberships
 

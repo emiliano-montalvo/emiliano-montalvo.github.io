@@ -1,12 +1,20 @@
 ---
 title: "Research Experience"
-format: html
-editor: visual
+format:
+  html:
+    anchor-sections: false
+    toc: false
 ---
 
-### Subnational Politics Project — Tecnológico de Monterrey
+# Research Experience
 
-**Student Researcher**\
+My research experience spans economics, political science, public policy, and applied data science, with a focus on quantitative research, econometrics, and reproducible data workflows.
+
+---
+
+### <a href="https://www.subnationalpolitics.com/" target="_blank"><img src="images/spp2.png" style="width: 35px; height: 35px; object-fit: contain; vertical-align: middle; margin-right: 8px;"></a> <a href="https://www.subnationalpolitics.com/" target="_blank">Subnational Politics Project</a> — Tecnológico de Monterrey
+
+**Student Researcher**  
 *Mar. 2026 – Aug. 2026*
 
 **Supervisors:** Dr. Agustina Giraudy; Dr. Francisco Urdinez; MPP(c) Felipe I. Soto Jorquera
@@ -17,37 +25,46 @@ Built **PROSPER**, a historical subnational dataset covering GDP, population, an
 
 **Tools:** R · Data Engineering · Geospatial Analysis
 
-[View PROSPER Demo Dashboard →](https://emilianomontalvo.shinyapps.io/subnational_gdp_pop/)
+**Selected Output:** [PROSPER Dashboard →](https://emilianomontalvo.shinyapps.io/subnational_gdp_pop/)
 
-### Department of Economics — Tecnológico de Monterrey
+---
 
-**Student Researcher & Project Manager**\
+### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of Economics — Tecnológico de Monterrey
+
+**Student Researcher & Project Manager**  
 *Jul. 2025 – Present*
 
 **Supervisors:** Dr. David Valenzuela Vega; Dr. Carlos Saldaña Villanueva
 
-Conduct research on U.S.–China trade flows using econometric and machine learning methods for forecasting and empirical analysis. Led a multidisciplinary student research team and developed reproducible statistical programming workflows in R and Python. The project has contributed to a manuscript accepted for publication and to presentations at international and national academic conferences.
+Conduct research on U.S.–China trade flows using econometric and machine learning methods for forecasting and empirical analysis. Lead a multidisciplinary student research team and develop reproducible statistical programming workflows in R and Python. The project has resulted in a published manuscript and presentations at national and international academic conferences.
 
 **Methods:** Econometric Modeling · Machine Learning · Time-Series Forecasting
 
 **Tools:** R · Python · LSTM · Econometrics · Data Visualization
 
-### Department of Political Science — Tecnológico de Monterrey
+**Selected Output:** [Peer reviewed paper →](https://doi.org/10.29105/trendinomics.v2i2.19)
 
-**Student Researcher**\
+---
+
+### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of Political Science — Tecnológico de Monterrey
+
+**Student Researcher**  
 *Sep. 2024 – Jul. 2025*
 
 **Supervisors:** Dr. Juan Carlos Montero Bagatella; Dr. Carlos Saldaña Villanueva
 
-Conducted empirical research on the relationship between presidential political communication and public opinion in Mexico. Applied natural language processing and text analysis to presidential communications and combined these data with time-series regression models to examine changes in presidential approval. The research contributed to a peer-reviewed article examining the relationship between presidential rhetoric and public opinion.
+Conducted empirical research on the relationship between presidential political communication and public opinion in Mexico. Applied natural language processing and text analysis to presidential communications and combined these data with time-series regression models to examine changes in presidential approval. The research resulted in a peer-reviewed article in the *Revista Mexicana de Opinión Pública*.
 
 **Methods:** Natural Language Processing · Text Analysis · Time-Series Regression · Political Communication Analysis
 
 **Tools:** R · Text Mining · Econometrics
 
-### School of Government and Public Transformation — Tecnológico de Monterrey
+**Selected Output:** [Peer reviewed paper →](https://revistas.unam.mx/index.php/rmop/article/view/91503)
 
-**Research Assistant**\
+---
+### <img src="images/egob.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">School of Government and Public Transformation — Tecnológico de Monterrey
+
+**Research Assistant**  
 *Apr. 2025 – Sep. 2025*
 
 **Supervisor:** Dr. Ernesto Stein
@@ -58,9 +75,11 @@ Conducted quantitative analysis of trade, investment, and employment data for an
 
 **Tools:** R · Quarto · Data Analysis
 
-### Department of International Relations — Tecnológico de Monterrey
+---
 
-**Project Manager & Research Assistant**\
+### <img src="images/tec.png" style="width: 30px; height: 30px; object-fit: contain; vertical-align: middle; margin-right: 8px;">Department of International Relations — Tecnológico de Monterrey
+
+**Project Manager & Research Assistant**  
 *Jan. 2025 – Feb. 2025*
 
 **Supervisor:** Dr. Veronica Parra Obando
@@ -71,4 +90,4 @@ Led student research teams in an applied study of youth employment in Nuevo Leó
 
 **Tools:** R · Power BI · Data Analysis
 
-[View Youth Employment Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDQ4ZmI1ZTEtMDhlZC00NWUwLTkzMzgtMjFmZWI0ZTgxZTk4IiwidCI6ImM2NWEzZWE2LTBmN2MtNDAwYi04OTM0LTVhNmRjMTcwNTY0NSIsImMiOjR9)
+**Selected Output:** [Youth Employment Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDQ4ZmI1ZTEtMDhlZC00NWUwLTkzMzgtMjFmZWI0ZTgxZTk4IiwidCI6ImM2NWEzZWE2LTBmN2MtNDAwYi04OTM0LTVhNmRjMTcwNTY0NSIsImMiOjR9)

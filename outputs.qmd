@@ -1,118 +1,161 @@
 ---
-title: "Research Outputs"
-format: html
-editor: visual
+title: "Selected Works"
+format:
+  html:
+    anchor-sections: false
+    toc: false
 ---
+
+# Selected Works
+
+Selected publications, research projects, policy work, and data products.
+
+------------------------------------------------------------------------
 
 ## Publications
 
-### *Forecasting trade flows under geopolitical uncertainty: A hybrid econometric–LSTM approach* — 2026
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/trendi.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-Álvarez-Salas, M., Huitz-Montero, O. A., **Montalvo-Vásquez, E.**, Valenzuela Vega, D. R., & Saldaña Villanueva, C. E.\
-*Trendinomics, 2*(2), 1–12.
+### *Forecasting Trade Flows Under Geopolitical Uncertainty: A Hybrid Econometric–LSTM Approach*
 
-[🔗 Article](https://doi.org/10.29105/trendinomics.v2i2.19)
+**Álvarez-Salas, M., Huitz-Montero, O. A., Montalvo-Vásquez, E., Valenzuela Vega, D. R., & Saldaña Villanueva, C. E.**\
+*Trendinomics, 2*(2), 1–12 · 2026
 
-<details>
+Research developing a hybrid econometric–LSTM framework for forecasting international trade flows under geopolitical uncertainty, trade tensions, and global value chain fragmentation.
 
-<summary>Abstract</summary>
+[Article →](https://doi.org/10.29105/trendinomics.v2i2.19)
 
-This study develops a forecasting framework to improve the prediction of international trade flows under increasing geopolitical uncertainty, trade tensions, and global value chain fragmentation.
+------------------------------------------------------------------------
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/estancias.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-</details>
+### *Uso de estancias infantiles: Impacto en el nivel socioeconómico de los hogares en la región sur de México*
 
-### *Uso de estancias infantiles: Impacto en el nivel socioeconómico de los hogares en la región sur de México* — 2026
+**Rodríguez Bedolla, J., Samano Rodríguez, J. M. A., Huerta Treviño, A. I., & Montalvo Vásquez, E.**\
+*Revista Estudiantil de Economía* · 2026
 
-Rodríguez Bedolla, J., Samano Rodríguez, J. M. A., Huerta Treviño, A. I., & **Montalvo Vásquez, E.**\
-*Revista Estudiantil de Economía.*
+Examines the relationship between childcare use and household socioeconomic well-being in southern Mexico using ENUT 2024, an AMAI-based socioeconomic index, and an IPWRA model.
 
-**Accepted**
+**Status:** Accepted
 
-<details>
+------------------------------------------------------------------------
 
-<summary>Abstract</summary>
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/amlo.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-This study examines the effect of childcare use on household socioeconomic well-being in southern Mexico using ENUT 2024, an AMAI-based socioeconomic index, and an IPWRA model to estimate treatment effects while accounting for selection bias and territorial differences.
+### *La influencia de la retórica de las conferencias mañaneras en la aprobación presidencial de Andrés Manuel López Obrador: Un enfoque empírico de Presidential Priming*
 
-</details>
+**Montalvo Vásquez, E., Saldaña, C., & Montero Bagatella, J. C.**\
+*Revista Mexicana de Opinión Pública, 20*(39), 43 · 2025
 
-### *La influencia de la retórica de las conferencias mañaneras en la aprobación presidencial de Andrés Manuel López Obrador: Un enfoque empírico de Presidential Priming* — 2025
+Examines the relationship between presidential rhetoric and approval ratings in Mexico using text analysis and time-series regression.
 
-**Montalvo Vásquez, E.**, Saldaña, C., & Montero Bagatella, J. C.\
-*Revista Mexicana de Opinión Pública, 20*(39), 43.
+[Article →](https://revistas.unam.mx/index.php/rmop/article/view/91503)\
+[Watch Presentation →](https://youtu.be/TnNuukrP6Qw?t=10053)
 
-[🔗 Article](https://revistas.unam.mx/index.php/rmop/article/view/91503)
+------------------------------------------------------------------------
 
-<details>
+## Research Projects & Working Papers
 
-<summary>Abstract</summary>
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/prosper.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-This study examines the relationship between presidential rhetoric and approval ratings in Mexico, finding a statistically significant negative association between the rhetoric of the daily presidential conferences and presidential approval.
+### *PROSPER Dataset Codebook: Historical Reconstruction of Subnational GDP, Population, and GDP Per Capita Data*
 
-</details>
+**Giraudy, A., Montalvo Vásquez, E., Barrientos Villa, P. Y., & Soto Jorquera, F.**\
+*Subnational Politics Project (SPP) · Working Paper · Forthcoming*
 
-## Working Papers & Research Projects
+Develops PROSPER, a harmonized long-run panel of GDP, population, and GDP per capita for 83 second-tier subnational units across Argentina, Brazil, and Mexico from 1980 to 2024.
 
-### *PROSPER Dataset Codebook: Historical Reconstruction of Subnational GDP, Population, and GDP Per Capita Data — Subnational Politics Project (SPP)*
+[PROSPER Dashboard →](https://emilianomontalvo.shinyapps.io/subnational_gdp_pop/)
 
-Giraudy, A., **Montalvo Vásquez, E.**, Barrientos Villa, P. Y., & Soto Jorquera, F.\
-*Subnational Politics Project (SPP).*
+------------------------------------------------------------------------
 
-**Working Paper · Forthcoming**
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/tesis.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-[↗ PROSPER Dashboard](https://emilianomontalvo.shinyapps.io/subnational_gdp_pop/)
-
-<details>
-
-<summary>Abstract</summary>
-
-This project develops PROSPER, a harmonized long-run panel of GDP, population, and GDP per capita for 83 second-tier subnational units across Argentina, Brazil, and Mexico. The project extends the Subnational Politics Project's data infrastructure through the standardized reconstruction and harmonization of heterogeneous historical economic series.
-
-</details>
-
-### *The Relation Between Political-Criminal Violence and Subnational Democratic Backsliding in Mexico* — 2026
+### *The Relation Between Political-Criminal Violence and Subnational Democratic Backsliding in Mexico*
 
 **Montalvo Vásquez, E.**\
-*Undergraduate Thesis, Tecnológico de Monterrey.*
+*Undergraduate Thesis · Tecnológico de Monterrey · 2026*
 
-[↗ ResearchGate](https://www.researchgate.net/publication/406976022_The_Relation_Between_Political-Criminal_Violence_and_Subnational_Democratic_Backsliding_in_Mexico)
+Examines the relationship between political-criminal violence and subnational democratic backsliding across Mexican states.
 
-<details>
+[ResearchGate →](https://www.researchgate.net/publication/406976022_The_Relation_Between_Political-Criminal_Violence_and_Subnational_Democratic_Backsliding_in_Mexico)
 
-<summary>Abstract</summary>
+------------------------------------------------------------------------
 
-This study examines the relationship between political-criminal violence and subnational democratic backsliding across Mexican states.
+## Policy & Applied Research
 
-</details>
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/rincon.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
 
-### *El Rincón de Siempre: una propuesta de cuidado comunitario y participación social en la vejez* — 2026
+### *El Rincón de Siempre: Una propuesta de cuidado comunitario y participación social en la vejez*
 
-**Montalvo Vásquez, E.** & Delgado Pérez, D.\
-*Conversatorio Internacional Ciudad, Cuidados y Vejez 2026, Universidad Autónoma del Estado de México.*
+**Montalvo Vásquez, E. & Delgado Pérez, D.**\
+*Universidad Autónoma del Estado de México · 2026*
 
-[🔗 Paper](https://doi.org/10.5281/zenodo.19520644)
+Policy proposal addressing urban social isolation among older adults through community-based care and social participation.
 
-<details>
+[Paper →](https://doi.org/10.5281/zenodo.19520644)
 
-<summary>Abstract</summary>
+------------------------------------------------------------------------
 
-This policy proposal presents a community initiative to reduce urban elderly social isolation in San Pedro.
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 8px; margin: 25px 0 20px 0;">
+  <img src="images/coping.png"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+</div>
+### *Exploring the Role of Coping Mechanisms and Professional Experience in Job Placement Perception Among University Students: A Case Study from Tecnológico de Monterrey*
 
-</details>
+**Montalvo-Vásquez, E., García-Rojas, A., & Martínez-Canseco, J. S.**\
+*Tecnológico de Monterrey · 2025*
 
-### *Exploring the Role of Coping Mechanisms and Professional Experience in Job Placement Perception Among University Students: A Case Study from Tecnológico de Monterrey* — 2025
+Study examining university students' perceptions of factors associated with job placement prospects.
 
-Montalvo-Vásquez, E., García-Rojas, A., & Martínez-Canseco, J. S.\
-*Monterrey International Book Fair 2025 (FILMTY 2025).*
+[Paper →](https://doi.org/10.5281/zenodo.21895768)
 
-[🔗 Paper](https://doi.org/10.5281/zenodo.21895768)
+------------------------------------------------------------------------
 
-<details>
+## Selected Presentations
 
-<summary>Abstract</summary>
+### *Use of Childcare Centers: Impact on the Socioeconomic Level of Households in the Southern Region of Mexico* — 2026
 
-This study investigates student perceptions at Tecnológico de Monterrey, finding that students prioritize academic knowledge over coping mechanisms when evaluating job placement prospects.
+*Research Seminar "Econoseries", Tecnológico de Monterrey.*
 
-</details>
+------------------------------------------------------------------------
 
-## 
+### *El Rincón de Siempre: A Proposal for Community Care and Social Participation in Old Age* — 2026
+
+*International Colloquium City, Care, and Aging, Universidad Autónoma del Estado de México.*
+
+------------------------------------------------------------------------
+
+### *Shaping the Future with Our Future: A Multi-/Interdisciplinary Approach* — 2025
+
+*Research Seminar, Omicron Delta Epsilon México Beta Chapter, Tecnológico de Monterrey.*
+
+------------------------------------------------------------------------
+
+### *Exploring the Role of Coping Mechanisms and Professional Experience in Job Placement Perception* — 2025
+
+*Monterrey International Book Fair, Tecnológico de Monterrey.*
+
+------------------------------------------------------------------------
+
+### *The Influence of Daily Conferences Rhetoric on Andrés Manuel López Obrador's Presidential Approval* — 2025
+
+*II Graduate Student Colloquium in Political Science, El Colegio de México; Research Seminar "Econoseries", Tecnológico de Monterrey.*
+
